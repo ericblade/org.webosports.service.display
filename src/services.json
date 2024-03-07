@@ -1,0 +1,9 @@
+{
+    "id": "org.webosports.service.display",
+    "description": "Display Service",
+    "services": [
+        {
+            "name": "org.webosports.service.display"
+        }
+    ]
+}

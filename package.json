@@ -1,0 +1,20 @@
+{
+  "name": "org.webosports.service.display",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "Eric Blade",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/webos-service": "^0.4.6",
+    "typescript": "^5.4.2"
+  },
+  "dependencies": {
+    "webos-service-promised": "github:ericblade/webos-service-promised"
+  }
+}
